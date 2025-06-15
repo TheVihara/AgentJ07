@@ -1,0 +1,5 @@
+[versions]
+hikaricp = "6.3.0"
+
+[libraries]
+hikaricp = { group = "com.zaxxer", name = "HikariCP", version.ref = "hikaricp" }
