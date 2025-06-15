@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/minecraft" />
             <option value="$PROJECT_DIR$/minecraft/bukkit" />
             <option value="$PROJECT_DIR$/minecraft/bukkit/api" />
+            <option value="$PROJECT_DIR$/minecraft/bukkit/bootstrap" />
             <option value="$PROJECT_DIR$/minecraft/bukkit/example" />
             <option value="$PROJECT_DIR$/minecraft/bukkit/version-1-21-5" />
           </set>

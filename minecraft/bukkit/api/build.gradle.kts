@@ -5,10 +5,8 @@ plugins {
 
 group = "net.astopia.agentj07.minecraft.bukkit"
 
-repositories {
-    mavenCentral()
-}
-
 dependencies {
     api(project(":api"))
+    api(libs.bundles.jshepherd.yaml)
+    compileOnly(libs.bukkit.v1165)
 }
